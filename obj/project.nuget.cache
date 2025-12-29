@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "doUCuPS5vX0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UsEr\\Github\\BlogBackend\\BlogBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\UsEr\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
