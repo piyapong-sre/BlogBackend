@@ -478,10 +478,4 @@ dotnet ef database update
 
 This project is licensed under the MIT License
 
-## 👨‍💻 Author
-
-**Your Name**
-
 ---
-
-⭐ ถ้าโปรเจคนี้มีประโยชน์ อย่าลืม Star ให้ด้วยนะครับ!
